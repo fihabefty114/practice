@@ -6,4 +6,6 @@ hey i am ifty i want to work here
 =======
 "add something new" 
 hhhh
->>>>>>> main
+>>>>>>> main..
+there is some conflict problem
+
