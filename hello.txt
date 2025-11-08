@@ -1,4 +1,9 @@
 "This is first file"
+<<<<<<< HEAD
 "add something new"
 hey i am ifty i want to work here
  
+=======
+"add something new" 
+hhhh
+>>>>>>> main
